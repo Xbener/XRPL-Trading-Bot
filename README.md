@@ -18,7 +18,7 @@ This enables optimal trading performance on the XRP Ledger, providing liquidity,
 
 2. Clone the repository:
 ```sh
-git clone https://github.com/adrienbailliard/xrpl-trading-bot.git
+git clone https://github.com/Xbener/xrpl-trading-bot.git
 ```
 
 3. Navigate to the project folder:
