@@ -1,6 +1,6 @@
 # XRPL Trading Bot
 
-A powerful market maker bot for the XRP Ledger DEX.
+Built for performance and reliability, this bot is ideal for automated market making on decentralized exchanges.
 
 ## What You Get
 
